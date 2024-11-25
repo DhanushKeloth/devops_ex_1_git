@@ -5,3 +5,7 @@ git branch -M main
 git commit -m "initial commit"
 git remote add origin "repourl"
 git push -u origin main
+
+
+
+git pull //to fetch the files from remote to local
