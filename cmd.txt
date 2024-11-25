@@ -13,3 +13,5 @@ git branch //shows all branches
 git checkout branchname //switch branches
 git branch -d 
 git log
+
+git merge feature
